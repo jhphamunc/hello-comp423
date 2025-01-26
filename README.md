@@ -1,6 +1,6 @@
 # Hello COMP423
 
-This repository contains the "Hello COMP423" program described in the tutorial.
+This repository contains the "Hello COMP423" program described in the tutorial using Go.
 
 ## Link to Tutorial
 
